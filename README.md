@@ -1,16 +1,32 @@
-## Hi there 👋
+👋 Olá, eu sou Vinicius!
 
-<!--
-**vinyzis/vinyzis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de programação | ☁️ Apaixonado por tecnologia e inovação
 
-Here are some ideas to get you started:
+Atualmente estou focado em desenvolver minhas habilidades em **Python e R para análise de dados**, com interesse especial em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📈 Análise exploratória de dados (EDA)
+- 🐍 Python, Pandas, NumPy
+- 📊 Visualização de dados com Matplotlib, Seaborn e ggplot2
+- 🧠 Machine Learning (iniciando com Scikit-learn)
+- 📉 Manipulação e modelagem de dados com R (dplyr, tidyr, caret)
+- ☁️ Computação em nuvem (AWS Foundations em andamento)
+
+---
+
+## 🚀 Aprendendo agora
+
+- Google Data Analytics Professional Certificate  
+- AWS Academy Machine Learning Foundations  
+- R para Ciência de Dados (via cursos e projetos práticos)  
+- SQL e visualização de dados com Looker Studio
+
+---
+
+## 💼 Objetivo
+
+Buscar oportunidades para aplicar meus conhecimentos em **dados, tecnologia e negócios**, e crescer profissionalmente na área de **Dados ou Tecnologia Bancária**.
+
+
+---
+
+⭐ Obrigado por visitar meu perfil!
