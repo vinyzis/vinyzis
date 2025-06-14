@@ -1,32 +1,17 @@
-👋 Olá, eu sou Vinicius!
+## Olá 👋
 
-🎓 Estudante de programação | ☁️ Apaixonado por tecnologia e inovação
+Sou o Vinicius Lopes tenho 19 anos, moro em São Paulo e atualmente curso Ciência de Dados. Sou apaixonado por transformar números em insights que fazem a diferença e estou focado em crescer profissionalmente como Analista de Dados, aprimorando minhas habilidades na área.
 
-Atualmente estou focado em desenvolver minhas habilidades em **Python e R para análise de dados**, com interesse especial em:
-
-- 📈 Análise exploratória de dados (EDA)
-- 🐍 Python, Pandas, NumPy
-- 📊 Visualização de dados com Matplotlib, Seaborn e ggplot2
-- 🧠 Machine Learning (iniciando com Scikit-learn)
-- 📉 Manipulação e modelagem de dados com R (dplyr, tidyr, caret)
-- ☁️ Computação em nuvem (AWS Foundations em andamento)
-
----
-
-## 🚀 Aprendendo agora
-
-- Google Data Analytics Professional Certificate  
-- AWS Academy Machine Learning Foundations  
-- R para Ciência de Dados (via cursos e projetos práticos)  
-- SQL e visualização de dados com Looker Studio
-
----
-
-## 💼 Objetivo
-
-Buscar oportunidades para aplicar meus conhecimentos em **dados, tecnologia e negócios**, e crescer profissionalmente na área de **Dados ou Tecnologia Bancária**.
+Aqui, compartilho um pouco da minha trajetória, projetos e aprendizados na área de dados. Seja muito bem-vindo(a)!
 
 
----
 
-⭐ Obrigado por visitar meu perfil!
+
+
+
+### 🛠️ Linguagens e Ferramentas
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-squareflat-square&logo=Pandas)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-squareflat-square&logo=mysql&logoColor=white)
