@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Sou o **Vinicius Lopes**, tenho 19 anos, moro em São Paulo e atualmente curso **Ciência de Dados**. Sou apaixonado por transformar números em **insights que fazem a diferença** e estou focado em crescer profissionalmente como **Analista de Dados**, aprimorando minhas habilidades na área.
+Sou o **Vinicius Lopes**, tenho 20 anos, moro em São Paulo e atualmente curso **Ciência de Dados**. Sou apaixonado por transformar números em **insights que fazem a diferença** e estou focado em crescer profissionalmente como **Analista de Dados**, aprimorando minhas habilidades na área.
 
 Aqui, compartilho um pouco da minha trajetória, projetos e aprendizados na área de dados. **Seja muito bem-vindo(a)!** 🚀
 
