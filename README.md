@@ -6,20 +6,9 @@ Aqui, compartilho um pouco da minha trajetória, projetos e aprendizados na áre
 
 ---
 
-### 🛠️ Linguagens e Ferramentas
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-
+### Stack
+Python, R, Node.JS, Supabase, MySql
 ---
-
-### 🚀 Meus Últimos Projetos
-
-Aqui estão alguns dos projetos mais recentes que desenvolvi:
-
-- **📊 [Analise de Vendas](https://github.com/vinyzis/analise_vendas)** → Análise exploratória dos dados de vendas de uma empresa fictícia, ultilizando Python, Pandas e Matplotlib.
 
 Caso queira dar uma olhada em mais projetos, fique à vontade para explorar meu GitHub! 😃  
 
