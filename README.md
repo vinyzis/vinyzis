@@ -7,7 +7,9 @@ Aqui, compartilho um pouco da minha trajetória, projetos e aprendizados na áre
 ---
 
 ### Stack
-Python, R, Node.JS, Supabase, MySql
+
+Python, R, Node.JS, Supabase, MySql 
+
 ---
 
 Caso queira dar uma olhada em mais projetos, fique à vontade para explorar meu GitHub! 😃  
